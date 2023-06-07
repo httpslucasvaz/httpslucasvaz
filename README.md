@@ -1,11 +1,11 @@
 <img src="https://github.com/httpslucasvaz/httpslucasvaz/assets/118950711/ebf0be57-7653-488d-a897-490fae235aee" alt="lucas vaz, github header" />
 
-I'm front-end developer currently focused on <strong>ReactJs, TypeScript, and NextJs</strong>. I'm currently transitioning careers and pursuing a degree in analysis and systems development. Seeking my first opportunity in the development field, I bring with me 29 years of age and professional experiences that have shaped me into a responsible and positive professional with excellent teamwork skills. Passionate about technology, I am constantly striving to improve myself and stay updated to become a better and up-to-date professional every day.
+Desenvolvedor front-end, focado atualmente em ReactJs, Typescript e NextJs, são as stacks que utilizo em meus projetos atuais. Estou em transição de carreira, cursando análise e desenvolvimento de sistemas, busco minha primeira oportunidade na área de desenvolvimento, trago com meus atuais 29 anos, experiências profissionais que me moldaram para me tornar um profissional responsável, alto-astral, com ótimo relacionamento em equipe. Apaixonado por tecnologia, estou diariamente buscando evoluir, para me tornar cada dia um profissional melhor e atualizado.
 <br/>
 ##
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)  
 ##
-### ✉️ send me a message:
+### ✉️ vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasvazz)
 
 ##
