@@ -1,4 +1,5 @@
-<img src="https://github.com/httpslucasvaz/httpslucasvaz/assets/118950711/27deea9e-7d0b-44f1-b36a-c7b5e0e0b122" alt="lucas vaz, github header" />
+<img src="https://github.com/httpslucasvaz/httpslucasvaz/assets/118950711/4881eb1e-b2a0-45c6-8e9d-78c99499c498" alt="lucas vaz, github header" />
+
 
 Desenvolvedor front-end, focado atualmente em ReactJs, Typescript e NextJs, são as stacks que utilizo em meus projetos atuais. Estou em transição de carreira, cursando análise e desenvolvimento de sistemas, busco minha primeira oportunidade na área de desenvolvimento, trago com meus atuais 29 anos, experiências profissionais que me moldaram para me tornar um profissional responsável, alto-astral, com ótimo relacionamento em equipe. Apaixonado por tecnologia, estou diariamente buscando evoluir, para me tornar cada dia um profissional melhor e atualizado.
 <br/>
